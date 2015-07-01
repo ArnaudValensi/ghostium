@@ -49,46 +49,46 @@ h4, .h4 {
 }
 
 h1, .h1 {
-  font-size: 48.5px;
+  //font-size: 48.5px;
   text-indent: -2px;
   letter-spacing: -1px;
   line-height: 1.2;
 
   @include breakpoint(small) {
-    font-size: 30.5px;
+    //font-size: 30.5px;
   }
 }
 
 h2, .h2 {
-  font-size: 31.5px;
+  //font-size: 31.5px;
   line-height: 1.2;
 
   @include breakpoint(small) {
-    font-size: 24px;
+    //font-size: 24px;
   }
 }
 
 h3, .h3 {
-  font-size: 26.5px;
+  //font-size: 26.5px;
   line-height: 1.2;
 
   @include breakpoint(small) {
-    font-size: 20px;
+    //font-size: 20px;
   }
 }
 
 h4, .h4 {
-  font-size: 22.5px;
+  //font-size: 22.5px;
 
   @include breakpoint(small) {
-    font-size: 17.5px;
+    //font-size: 17.5px;
   }
 }
 
 h5, .h5 {
-  font-size: 17.5px;
+  //font-size: 17.5px;
 }
 
 h6, .h6 {
-  font-size: 14.5px;
+  //font-size: 14.5px;
 }
